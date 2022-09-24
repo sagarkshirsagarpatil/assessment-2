@@ -1,0 +1,44 @@
+            .Add_main{
+               width:70%;
+               margin: 0px auto;
+               border-radius: 10px;
+               box-shadow: 5px 5px 5px black;
+               padding: 10px;
+            }
+            
+            .Add_sub{
+               display: flex;
+               justify-content: space-between;
+            }
+            
+            input{
+               height: 40px;
+               width: 250px;
+               border-radius: 10px;
+               background-color: rgb(187, 192, 195);
+               margin-top: 10px;
+               color: black;
+               border: none;
+            }
+            span{
+               font-size: 20px;
+            }
+            button{
+               width: 200px;
+               background-color:orangered;
+               font-size: 20px;
+               font-weight: bold;
+               color: aliceblue;
+               padding: 10px;
+               border-radius: 5px;
+              margin: 0px auto;
+            }
+            .redio{
+               border-radius: 50%;
+               width: 20px;
+            }
+            .redio_name{
+               margin-top:-10px
+            }
+            
+           
